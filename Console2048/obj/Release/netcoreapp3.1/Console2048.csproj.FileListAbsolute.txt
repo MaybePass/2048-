@@ -1,0 +1,13 @@
+G:\Graduation Design\unity学习\Solutionbase\Console2048\bin\Release\netcoreapp3.1\Console2048.exe
+G:\Graduation Design\unity学习\Solutionbase\Console2048\bin\Release\netcoreapp3.1\Console2048.deps.json
+G:\Graduation Design\unity学习\Solutionbase\Console2048\bin\Release\netcoreapp3.1\Console2048.runtimeconfig.json
+G:\Graduation Design\unity学习\Solutionbase\Console2048\bin\Release\netcoreapp3.1\Console2048.runtimeconfig.dev.json
+G:\Graduation Design\unity学习\Solutionbase\Console2048\bin\Release\netcoreapp3.1\Console2048.dll
+G:\Graduation Design\unity学习\Solutionbase\Console2048\bin\Release\netcoreapp3.1\Console2048.pdb
+G:\Graduation Design\unity学习\Solutionbase\Console2048\obj\Release\netcoreapp3.1\Console2048.csproj.AssemblyReference.cache
+G:\Graduation Design\unity学习\Solutionbase\Console2048\obj\Release\netcoreapp3.1\Console2048.AssemblyInfoInputs.cache
+G:\Graduation Design\unity学习\Solutionbase\Console2048\obj\Release\netcoreapp3.1\Console2048.AssemblyInfo.cs
+G:\Graduation Design\unity学习\Solutionbase\Console2048\obj\Release\netcoreapp3.1\Console2048.csproj.CoreCompileInputs.cache
+G:\Graduation Design\unity学习\Solutionbase\Console2048\obj\Release\netcoreapp3.1\Console2048.dll
+G:\Graduation Design\unity学习\Solutionbase\Console2048\obj\Release\netcoreapp3.1\Console2048.pdb
+G:\Graduation Design\unity学习\Solutionbase\Console2048\obj\Release\netcoreapp3.1\Console2048.genruntimeconfig.cache

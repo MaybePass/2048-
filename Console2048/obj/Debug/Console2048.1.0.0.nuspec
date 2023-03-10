@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Console2048</id>
+    <version>1.0.0</version>
+    <authors>Console2048</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="G:\Graduation Design\unity学习\Solutionbase\Console2048\bin\Debug\netcoreapp3.1\Console2048.runtimeconfig.json" target="lib\netcoreapp3.1\Console2048.runtimeconfig.json" />
+    <file src="G:\Graduation Design\unity学习\Solutionbase\Console2048\bin\Debug\netcoreapp3.1\Console2048.dll" target="lib\netcoreapp3.1\Console2048.dll" />
+  </files>
+</package>
